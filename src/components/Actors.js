@@ -17,6 +17,7 @@ const Actors = () => {
   
   return (
     <div>
+      <h1>Actors Page</h1>
       {actorList}
     </div>
   );
